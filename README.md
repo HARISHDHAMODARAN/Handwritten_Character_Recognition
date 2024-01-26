@@ -11,8 +11,11 @@ Scalable architecture for handling large datasets
 **Requirements:**
 
 Python 3.x
+
 TensorFlow
+
 NumPy
+
 Keras
 
 **Result:**
