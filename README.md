@@ -5,7 +5,9 @@ Handwritten Character Recognition is a challenging task in the field of computer
 **Features:**
 
 Recognize handwritten characters from various sources.
+
 Pre-trained models for quick deployment.
+
 Scalable architecture for handling large datasets
 
 **Requirements:**
